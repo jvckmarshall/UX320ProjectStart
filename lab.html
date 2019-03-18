@@ -17,8 +17,7 @@
 		<h3 id="creative-active-individuals-can-only-grow-up-in-a-society-that-emphasizes-learning-instead-of-teaching-chris-alexander">&quot;Creative
 			Active Individuals can only grow up in a society that emphasizes learning instead of teaching.&quot; - Chris Alexander
 		</h3>
-		<p>The idea is that this will be used for guided practice in an educational environment. Please click below to go to your
-			lab.
+		<p>This is for you to create your project idea.
 		</p>
 		<p class="text-center">
 			<a id="loginName" href="/" class="btn btn-primary btn-lg call_to_action" target="_blank">
@@ -42,7 +41,7 @@
             fetch(sBase + "createContainerFromLMS/" + sUri).then(response => {
                 return response.text().then(sUrl =>{
                     document.getElementById("loginName").setAttribute("href", sUrl );
-                    fetch(sUrl.replace("login", "initContainer") + "/UX320/Mar11-angular-plugin/UX320AngularPlugin").then(response => {
+                    fetch(sUrl.replace("login", "initContainer") + "/UX320/Mar18-project-start/UX320ProjectStart").then(response => {
                         return response.text().then(sResponse =>{
                             console.log(sResponse);
                         });
