@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## UX320 Project start
 
-You can use the [editor on GitHub](https://github.com/rhildred/UX320-database-child-theme/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1. open a terminal
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![open a terminal](https://rhildred.github.io/UX320ProjectStart/READMEImages/StartTerminal.png "open a terminal")
 
-### Markdown
+2. type `php -S 0.0.0.0:$PORT`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![php -S 0.0.0.0:$PORT](https://rhildred.github.io/UX320ProjectStart/READMEImages/phpCommand.png "php -S 0.0.0.0:$PORT")
 
-```markdown
-Syntax highlighted code block
+You will implement some of your vision from assignments 1-3.
 
-# Header 1
-## Header 2
-### Header 3
+Marking:
 
-- Bulleted
-- List
+Up to 50% will be awarded for getting a web site up on the idea you selected for your first 3 assignments.
 
-1. Numbered
-2. List
+Up to an additional 5% will be awarded for landing page style posts that explore different aspects of your page and consider the things people will be searching for related to your idea.
 
-**Bold** and _Italic_ and `Code` text
+An additional 5% will be awarded for changing the "Just another Wordpress site" tagline to something more in line with how people will find your site.
 
-[Link](url) and ![Image](src)
-```
+Up to an additional 5% will be awarded for an about page that gives your user context for a landing page and draws them in to further explore your idea.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Up to an additional 5% will be awarded for a contact page with a clear call to action of how to become personally engaged with your mission.
 
-### Jekyll Themes
+Up to an additional 5% will be awarded for the images and (multimedia) contents of your posts.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rhildred/UX320-database-child-theme/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Up to an additional 5% will be awarded for removing all the widgets except for search from the sidebar.
 
-### Support or Contact
+Up to an additional 5% will be awarded for your child theme which will need to have some css in it that makes the user experience more like your vision. You will also need to include a favicon
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Up to an additional 5% will be awarded for proper attribution of multimedia and including your own generated content.
+
+Up to an additional 5% will be awarded for using a SEO plugin.
+
+Up to an additional 5% will be awarded for accessibility. Image alt tags ....
