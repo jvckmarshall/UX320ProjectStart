@@ -8,6 +8,11 @@
 
 ![php -S 0.0.0.0:$PORT](https://rhildred.github.io/UX320ProjectStart/READMEImages/phpCommand.png "php -S 0.0.0.0:$PORT")
 
+3. If you find that you are faced with a gateway error (see below) you will need to repeat steps 1 and 2.
+
+![bad Gateway](https://rhildred.github.io/UX320ProjectStart/READMEImages/badGateway.png "bad Gateway")
+
+
 You will implement some of your vision from assignments 1-3.
 
 Marking:
