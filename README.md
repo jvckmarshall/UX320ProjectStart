@@ -12,7 +12,7 @@
 
 4. To get to the wordpress admin console surf to `https://app-<your username>.rhlab.io/wp-admin/`
 
-![wp-admin](https://rhildred.github.io/UX320ProjectStart/READMEImages/wp-admin.png "wp-admin")
+![wp-admin](https://rhildred.github.io/UX320ProjectStart/READMEImages/wp-admin.PNG "wp-admin")
 
 5. If you find that you are faced with a gateway error (see below) you will need to repeat steps 1 and 2.
 
