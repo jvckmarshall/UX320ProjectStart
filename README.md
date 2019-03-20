@@ -8,14 +8,20 @@
 
 ![php -S 0.0.0.0:$PORT](https://rhildred.github.io/UX320ProjectStart/READMEImages/phpCommand.png "php -S 0.0.0.0:$PORT")
 
-3. If you find that you are faced with a gateway error (see below) you will need to repeat steps 1 and 2.
+3. Surf to `https://app-<your username>.rhlab.io` and set up wordpress normally
+
+4. To get to the wordpress admin console surf to `https://app-<your username>.rhlab.io/wp-admin/`
+
+![wp-admin](https://rhildred.github.io/UX320ProjectStart/READMEImages/wp-admin.PNG "wp-admin")
+
+5. If you find that you are faced with a gateway error (see below) you will need to repeat steps 1 and 2.
 
 ![bad Gateway](https://rhildred.github.io/UX320ProjectStart/READMEImages/badGateway.png "bad Gateway")
 
 
 You will implement some of your vision from assignments 1-3.
 
-Marking:
+## Marking:
 
 Up to 50% will be awarded for getting a web site up on the idea you selected for your first 3 assignments.
 
@@ -38,3 +44,5 @@ Up to an additional 5% will be awarded for proper attribution of multimedia and 
 Up to an additional 5% will be awarded for using a SEO plugin.
 
 Up to an additional 5% will be awarded for accessibility. Image alt tags ....
+
+### Good luck achieving your vision!
